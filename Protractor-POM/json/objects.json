@@ -1,0 +1,34 @@
+{
+  "url":"http://www.way2automation.com/angularjs-protractor/banking/#/login",
+
+  "locators":{
+    "homepage":{
+
+      "Customer":"Customer Login",
+      "BankManager":"manager()",
+      "logout":"byebye()"
+    },
+    "details":{
+
+      "addcustomer":"addCust()",
+      "openAccount":"openAccount()",
+      "searchCustomer":"showCust()",
+      "firstName":"fName",
+      "lastName":"lName",
+      "postCode":"postCd",
+      "submitCustomer":".btn.btn-default",
+      "processButtonText":"Process",
+      "enterCustomerName":"searchCustomer",
+
+      "testdata":{
+        "firstName":"Sowmya",
+        "lastName":"Lakkireddy",
+        "postCode":"75006",
+        "customer":"Harry Potter",
+        "currency":"Rupee",
+        "customerName":"Harry"
+
+      }
+    }
+  }
+}

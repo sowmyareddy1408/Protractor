@@ -1,0 +1,19 @@
+{
+  "testUrl":"https://honeywell.csod.com/ats/careersite/search.aspx?site=1&c=honeywell",
+  "locators":{
+"loginLink":"ctl00_careerSiteHeader_lnkLogIn",
+ "userName":"ctl00_siteContent_txtEmail",
+    "password":"//*[@id='ctl00_siteContent_txtPassword']",
+    "signInButton":"Sign In",
+    "logout":"Log Out"
+},
+  "userDetails":{
+    "email1":"sowmya7817@gmail.com",
+    "pswd1":"Sowmya@7817",
+    "email2":"ramya1989@gmail.com",
+    "pswd2":"Ramya@1989",
+    "email3":"divya1993@gmail.com",
+    "pswd3":"Divya@1993"
+  }
+
+}
