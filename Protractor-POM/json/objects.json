@@ -8,6 +8,7 @@
       "BankManager":"manager()",
       "logout":"byebye()"
     },
+
     "details":{
 
       "addcustomer":"addCust()",
@@ -24,11 +25,9 @@
         "firstName":"Sowmya",
         "lastName":"Lakkireddy",
         "postCode":"75006",
-        "customer":"Harry Potter",
-        "currency":"Rupee",
-        "customerName":"Harry"
-
-      }
+        "customer":"Sowmya Lakkireddy",
+        "currency":"Rupee"
+           }
     }
   }
 }

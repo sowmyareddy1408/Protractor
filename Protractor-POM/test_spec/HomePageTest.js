@@ -11,13 +11,13 @@ describe("HomePageTest",function() {
     it("check Customer login button", function () {
     homePage.loginAsCustomer();
     console.log("Customer Login");
-    browser.sleep(5000);
+    browser.sleep(2000);
     });
 
     it("check Bank Manager login button", function () {
     homePage.loginAsBankManager();
     console.log("Bank Manager Login");
-    browser.sleep(5000);
+    browser.sleep(2000);
     });
 
 });

@@ -10,14 +10,14 @@ describe("CustomerInfoTest",function() {
     });
     function dataProviders() {
         return [
-            {Customer: objects.locators.details.testdata.customer}
+            {Customer: objects.locators.details.testdata.customer,}
         ];
     }
     using(dataProviders, function (data) {
         it("Select Customer and view the Info", function () {
             homePage.loginAsCustomer().selectCustomer(data.Customer);
             console.log("Customer Info test done");
-            browser.sleep(3000);
+            browser.sleep(2000);
         });
     });
 });
