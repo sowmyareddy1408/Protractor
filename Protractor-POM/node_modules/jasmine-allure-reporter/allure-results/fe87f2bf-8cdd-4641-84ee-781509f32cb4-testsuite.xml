@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1514439843749" stop="1514439868205">
+	<name>AddNewCustomerTest</name>
+	<title>AddNewCustomerTest</title>
+	<test-cases>
+		<test-case start="1514439843749" stop="1514439853017" status="passed">
+			<name>Login as Bank Manager and add New Customer</name>
+			<title>Login as Bank Manager and add New Customer</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="c3cd8883-8631-44d9-8b70-4726d3da667f-attachment.png" type="image/png" size="34674"/>
+			</attachments>
+		</test-case>
+		<test-case start="1514439853017" stop="1514439861761" status="passed">
+			<name>Login as Bank Manager and open Account</name>
+			<title>Login as Bank Manager and open Account</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="83a13773-8242-4f9a-b0a2-cd4ecc6f9460-attachment.png" type="image/png" size="30849"/>
+			</attachments>
+		</test-case>
+		<test-case start="1514439861761" stop="1514439868205" status="passed">
+			<name>Login as Bank Manager and validate Customer</name>
+			<title>Login as Bank Manager and validate Customer</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="7fa96baf-6392-4570-8f6d-85c3353a22cb-attachment.png" type="image/png" size="39634"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

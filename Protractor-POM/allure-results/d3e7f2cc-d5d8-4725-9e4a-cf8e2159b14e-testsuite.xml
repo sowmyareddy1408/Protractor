@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1514439831915" stop="1514439843744">
+	<name>HomePageTest</name>
+	<title>HomePageTest</title>
+	<test-cases>
+		<test-case start="1514439831916" stop="1514439840677" status="passed">
+			<name>check Customer login button</name>
+			<title>check Customer login button</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="88427f2d-7876-4d59-8462-1a5c937208c1-attachment.png" type="image/png" size="16982"/>
+			</attachments>
+		</test-case>
+		<test-case start="1514439840677" stop="1514439843743" status="passed">
+			<name>check Bank Manager login button</name>
+			<title>check Bank Manager login button</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="30550a2d-6acf-49cd-8aee-de8e1b79eefb-attachment.png" type="image/png" size="20609"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>
